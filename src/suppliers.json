@@ -1,0 +1,56 @@
+[
+    {
+        "SupplierID": 1,
+        "CompanyName": "Nader Group",
+        "CompanyEmail": "rblowfield0@noaa.gov",
+        "PID": 1
+    },
+    {
+        "SupplierID": 2,
+        "CompanyName": "Beier, Kulas and Waelchi",
+        "CompanyEmail": "bcrocombe1@vistaprint.com",
+        "PID": 2
+    },
+    {
+        "SupplierID": 3,
+        "CompanyName": "Hintz-Block",
+        "CompanyEmail": "fvanthoog2@mtv.com",
+        "PID": 3
+    },
+    {
+        "SupplierID": 4,
+        "CompanyName": "Hessel-Donnelly",
+        "CompanyEmail": "dburnell3@sakura.ne.jp",
+        "PID": 4
+    },
+    {
+        "SupplierID": 4,
+        "CompanyName": "Wilderman-Glover",
+        "CompanyEmail": "ggumme4@yelp.com",
+        "PID": 5
+    },
+    {
+        "SupplierID": 6,
+        "CompanyName": "Abernathy and Sons",
+        "CompanyEmail": "kmilbank5@jimdo.com",
+        "PID": 6
+    },
+    {
+        "SupplierID": 7,
+        "CompanyName": "Thompson, Kunze and Thompson",
+        "CompanyEmail": "hpummery6@1und1.de",
+        "PID": 7
+    },
+    {
+        "SupplierID": 8,
+        "CompanyName": "Jerde and Sons",
+        "CompanyEmail": "malphonso7@sciencedaily.com",
+        "PID": 8
+    },
+    {
+        "SupplierID": 9,
+        "CompanyName": "Gislason, Balistreri and Lehner",
+        "CompanyEmail": "chalfacree8@ameblo.jp",
+        "PID": 9
+    }
+]
